@@ -1,3 +1,5 @@
+"use client";
+
 import React from 'react'
 
 import Frames from '@/views/apps/store/frames'
